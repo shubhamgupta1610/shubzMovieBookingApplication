@@ -1,0 +1,35 @@
+{
+    "userId": "SHUBHAM",
+    "movieDetails": {
+        "id": 1010,
+        "theaterLocation": "411027",
+        "theaterName": "E-SQUARE",
+        "movieName": "MATRIX",
+        "movieDate": "03-01-2022",
+        "movieTime": "12:00",
+        "moviePrice": 150.00
+    },
+    "seatDetailsList": [
+        {
+            "id": 2,
+            "movieId": 1010,
+            "seatName": "B1",
+            "seatStatus": "BOOKED"
+        },
+        {
+            "id": 3,
+            "movieId": 1010,
+            "seatName": "C1",
+            "seatStatus": "BOOKED"
+        },
+        {
+            "id": 4,
+            "movieId": 1010,
+            "seatName": "D1",
+            "seatStatus": "BOOKED"
+        }
+    ],
+    "finalPrice": 450.00,
+    "bookingStatus": "SUCCESS",
+    "bookingReferenceId": "b0afc0ed-6f64-4eab-9d78-181f09201284"
+}

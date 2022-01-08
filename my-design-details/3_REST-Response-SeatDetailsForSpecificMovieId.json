@@ -1,0 +1,20 @@
+[
+    {
+        "id": 2,
+        "movieId": 1010,
+        "seatName": "B1",
+        "seatStatus": "AVAILABLE"
+    },
+    {
+        "id": 3,
+        "movieId": 1010,
+        "seatName": "C1",
+        "seatStatus": "AVAILABLE"
+    },
+    {
+        "id": 4,
+        "movieId": 1010,
+        "seatName": "D1",
+        "seatStatus": "AVAILABLE"
+    }
+]

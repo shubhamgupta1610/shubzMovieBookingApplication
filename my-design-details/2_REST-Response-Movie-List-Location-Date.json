@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1001,
+        "theaterLocation": "411027",
+        "theaterName": "PVR",
+        "movieName": "MATRIX",
+        "movieDate": "03-01-2022",
+        "movieTime": "8:00",
+        "moviePrice": "150.00"
+    },
+    {
+        "id": 1002,
+        "theaterLocation": "411027",
+        "theaterName": "PVR",
+        "movieName": "SHOLAY",
+        "movieDate": "03-01-2022",
+        "movieTime": "10:00",
+        "moviePrice": "150.00"
+    },
+    {
+        "id": 1003,
+        "theaterLocation": "411027",
+        "theaterName": "PVR",
+        "movieName": "MATRIX",
+        "movieDate": "03-01-2022",
+        "movieTime": "12:00",
+        "moviePrice": "150.00"
+    },
+    {
+        "id": 1004,
+        "theaterLocation": "411027",
+        "theaterName": "PVR",
+        "movieName": "SHOLAY",
+        "movieDate": "03-01-2022",
+        "movieTime": "14:00",
+        "moviePrice": "250.00"
+    },
+    {
+        "id": 1005,
+        "theaterLocation": "411027",
+        "theaterName": "PVR",
+        "movieName": "FAST AND FURIOUS",
+        "movieDate": "03-01-2022",
+        "movieTime": "16:00",
+        "moviePrice": "250.00"
+    },
+    {
+        "id": 1006,
+        "theaterLocation": "411027",
+        "theaterName": "PVR",
+        "movieName": "FAST AND FURIOUS",
+        "movieDate": "03-01-2022",
+        "movieTime": "18:00",
+        "moviePrice": "250.00"
+    },
+    {
+        "id": 1007,
+        "theaterLocation": "411027",
+        "theaterName": "PVR",
+        "movieName": "FAST AND FURIOUS",
+        "movieDate": "03-01-2022",
+        "movieTime": "20:00",
+        "moviePrice": "250.00"
+    },
+    {
+        "id": 1008,
+        "theaterLocation": "411027",
+        "theaterName": "E-SQUARE",
+        "movieName": "MATRIX",
+        "movieDate": "03-01-2022",
+        "movieTime": "8:00",
+        "moviePrice": "150.00"
+    },
+    {
+        "id": 1009,
+        "theaterLocation": "411027",
+        "theaterName": "E-SQUARE",
+        "movieName": "SHOLAY",
+        "movieDate": "03-01-2022",
+        "movieTime": "10:00",
+        "moviePrice": "150.00"
+    },
+    {
+        "id": 1010,
+        "theaterLocation": "411027",
+        "theaterName": "E-SQUARE",
+        "movieName": "MATRIX",
+        "movieDate": "03-01-2022",
+        "movieTime": "12:00",
+        "moviePrice": "150.00"
+    },
+    {
+        "id": 1011,
+        "theaterLocation": "411027",
+        "theaterName": "E-SQUARE",
+        "movieName": "SHOLAY",
+        "movieDate": "03-01-2022",
+        "movieTime": "14:00",
+        "moviePrice": "250.00"
+    },
+    {
+        "id": 1012,
+        "theaterLocation": "411027",
+        "theaterName": "E-SQUARE",
+        "movieName": "FAST AND FURIOUS",
+        "movieDate": "03-01-2022",
+        "movieTime": "16:00",
+        "moviePrice": "250.00"
+    },
+    {
+        "id": 1013,
+        "theaterLocation": "411027",
+        "theaterName": "E-SQUARE",
+        "movieName": "FAST AND FURIOUS",
+        "movieDate": "03-01-2022",
+        "movieTime": "18:00",
+        "moviePrice": "250.00"
+    },
+    {
+        "id": 1014,
+        "theaterLocation": "411027",
+        "theaterName": "E-SQUARE",
+        "movieName": "FAST AND FURIOUS",
+        "movieDate": "03-01-2022",
+        "movieTime": "20:00",
+        "moviePrice": "250.00"
+    }
+]

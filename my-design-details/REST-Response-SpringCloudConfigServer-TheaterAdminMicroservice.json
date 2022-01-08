@@ -1,0 +1,18 @@
+{
+name: "theater-admin-microservice",
+profiles: [
+"default"
+],
+label: null,
+version: "4249a6b97f5d76891b6976582ec76809851e03e6",
+state: null,
+propertySources: [
+{
+name: "file://C:/Shubham/WorkspaceFolder/IntellijWorkspace/git-localconfig-repo/file:C:\Shubham\WorkspaceFolder\IntellijWorkspace\git-localconfig-repo\theater-admin-microservice.properties",
+source: {
+theater-admin-microservice.theater.admin.microservice.user: "theater",
+theater-admin-microservice.theater.admin.microservice.password: "admin"
+}
+}
+]
+}
